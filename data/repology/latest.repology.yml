@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: docsify-cli
+  binname: docsify-cli
+  visiblename: docsify-cli
+  version: 5.0.0
+  origversion: 5.0.0-1
+  status: unique
+  summary: A magical documentation generator
+  maintainers:
+    - misaka13514@aur
+  licenses:
+    - MIT
